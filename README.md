@@ -7,9 +7,10 @@ This repo includes codes for two papers:
 ```
 FaceHop: A Light-Weight Low-Resolution Face Gender Classification Method
 ```
+[arXiv:2007.09510](https://arxiv.org/abs/2007.09510)
 ```
 A Non-Parametric and Weakly-Supervised Face Verification Method for Resource-Constrained Environments
 ```
-
+[arXiv:2011.11674](https://arxiv.org/abs/2011.11674)
 
 
